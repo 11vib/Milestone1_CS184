@@ -6,16 +6,12 @@ const Home = () => {
   return (
     <>
       <div className="container">
-        <img
-          src="https://csrbox.org/news/1633521512banner.jpg"
-          alt="Loading"
-        ></img>
         <div className="container-fluid">
           <div className="row">
-            <div className="col-md-4">
+            <div className="col-md-12">
               <div className="card">
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUwfN9tH_yOA-y0qByUHOf7n06Ev8HEaCCmNvYBh5QA&s"
+                  src="https://www.weareteachers.com/wp-content/uploads/2-12.jpg"
                   alt="Error"
                 />
                 <div className="card-header">
@@ -23,9 +19,7 @@ const Home = () => {
                 </div>
                 <div className="card-text">
                   <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et
-                    magni accusamus hic suscipit quis laborum, molestias
-                    laudantium quae vero voluptas.
+                    Z7GywOvNkKcKWCbo1LqW38OR0hGeTiw8GOruC89gsOREtYPcZ5amrpHefaZptnKRnc2WgAJaAubVPGwB4Z0bPrJJKvpnWHizFXF2mohkGUeaRWy3OkGTikp4odgxzvdpZSyxBlyDuIMFzKOM3EC13LI7KWk4yZhapeKKY6z5WY8ZIsHIflSY9UHzuyYDvSs2s3N
                   </p>
                 </div>
               </div>
